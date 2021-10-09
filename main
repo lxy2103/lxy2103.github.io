@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8"/>
+    <title>李信宇个人网页</title>
+  </head>
+  <style type="text/css">
+    h1{
+  color: darkblue;
+  font-family: "Time New Roman",Times,serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 42px;
+}
+#u1{
+  font-size: 24px;
+}
+#u2{
+  font-size: 24px;
+}
+#u3{
+  font-size: 24px;
+}
+#p1{
+  font-size: 20px;
+  font-style: italic;
+}
+#p2{
+  font-size: 20px;
+  font-style: italic
+}
+#p3{
+  font-size: 28px;
+  font-weight: bold;
+}
+#ta1,tr,td{
+ border: 1px solid black;
+ text-align: center;
+}
+tr:nth-child(odd){background-color:lightgray;}
+  </style>
+  <body>
+    <h1>我是谁？</h1>
+    <ul id="u1">
+      <li>姓名： 李信宇</li>
+      <li>年龄： 18</li>
+      <li>生日： 3.21</li>
+      <li>星座： 白羊</li>
+      <li>学校院系： 北京大学药学院</li>
+    </ul>
+    <h1>我来自哪？</h1>
+    <ul id="u2">  
+      <li>我的家乡： 陕西西安</li>
+        <p id="p1"><a href="https://baike.baidu.com/item/%E8%A5%BF%E5%AE%89/121614?fromtitle=%E9%99%95%E8%A5%BF%E8%A5%BF%E5%AE%89&fromid=17503331&fr=aladdin">一个很不错的城市 不点开看看吗？</a></p>
+        <p id="p3">这里附带一份恰饭：Welcom to Xi'an  来看看关中八景</p>
+          <table id="ta1">
+            <tr>
+              <td>华岳仙掌</td>
+              <td>太白积雪</td>
+              <td>曲江流饮</td>
+              <td>雁塔晨钟</td>
+            </tr>
+            <tr>
+              <td><img src="https://inews.gtimg.com/newsapp_bt/0/8465165213/1000"width="240" height="180"></td>
+              <td><img src="https://tse1-mm.cn.bing.net/th/id/R-C.2611e940f9bf1fc664855aadf63566fa?rik=g8Is1KMTDmF8gw&riu=http%3a%2f%2fy1.ifengimg.com%2f1b28778edc63062f%2f2012%2f0613%2frdn_4fd8455373ac1.jpg&ehk=xqmCIXAeGaGpvKc6yRQ7%2fR51EF%2fGuaf8I669Zv9o5e0%3d&risl=&pid=ImgRaw&r=0"width="240" height="180"></td>
+              <td><img src="https://youimg1.c-ctrip.com/target/100g1a00000191fxa64BA.jpg"width="240" height="180"></td>
+              <td><img src="https://tse1-mm.cn.bing.net/th/id/R-C.b3adca3b1181bc95a0d8d8f644d4392c?rik=%2f8Qs8411M8o0RQ&riu=http%3a%2f%2fimage.xmcdn.com%2fgroup57%2fM01%2f6F%2f64%2fwKgLgVyHR0Ox2SU3AAGIiGi2KSE15.jpeg%3fop_type%3d4%26device_type%3dios%26upload_type%3dattachment%26name%3dmobile_large&ehk=0rLWEHoMtMM746KJYXEiV7jmMESkAqtCIjdMxV65ZCU%3d&risl=&pid=ImgRaw&r=0"width="240" height="180"></td>
+            </tr>
+            <tr>
+              <td>灞柳风雪</td>
+              <td>草堂烟雾</td>
+              <td>咸阳古渡</td>
+              <td>骊山晚照</td>
+            </tr>
+            <tr>
+              <td><img src="https://tse1-mm.cn.bing.net/th/id/R-C.9e636265e78327c697a8f6a2d0619929?rik=Q%2bMDCOmJEwZtqg&riu=http%3a%2f%2fpic.baike.soso.com%2fugc%2fbaikepic2%2f28522%2f20160921174742-377548215.jpg%2f300&ehk=Lc9J%2b%2fp6ygrDXyQk8ftAjl5m1H2bMso9twDINZAkqD4%3d&risl=&pid=ImgRaw&r=0"width="240" height="180"></td>
+              <td><img src="https://p1.ssl.qhimg.com/t01207da07f55a0dd4b.jpg"width="240" height="180"></td>
+              <td><img src="https://img1.qunarzz.com/travel/d1/1512/45/087b30ed633feff7.jpg_480x360x95_9dd00a5c.jpg"width="240" height="180"></td>
+              <td><img src="https://tse1-mm.cn.bing.net/th/id/R-C.ba98a8b3f4dfcb9f0a2a41edf4ae12a4?rik=vwLYo1L9BUv7tA&riu=http%3a%2f%2fimg.pconline.com.cn%2fimages%2fupload%2fupc%2ftx%2fphotoblog%2f1312%2f03%2fc1%2f29248849_29248849_1386043791828_mthumb.jpg&ehk=j9%2bq3aiEiSjqDQpwNKDBp%2fjtFJS32ebuaJBNS0xe5MM%3d&risl=&pid=ImgRaw&r=0"width="240" height="180"></td>
+            </tr>
+          </table>
+        <p>
+        </p> 
+      <li>我的母校： 陕西师范大学附属中学</li>
+        <p id="p2"><a href="http://www.sdfz.com.cn/">一所很不错的学校 不点开看看吗？</a></p>
+    </ul>
+    <h1>我喜欢什么？</h1>
+    <ul id="u3">
+      <li>羽毛球</li>
+      <li>书法</li>
+    </ul>
+    <h1>欢迎新的朋友！</h1>
+  </body>
+</html>
